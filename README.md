@@ -6,7 +6,8 @@ This repository is a home for snippets, tips and tricks and examples of scriptin
 
 The repository is broken up into four directories currently:
 
-* *pipeline-examples* - for general Pipeline examples.
+* *pipeline-examples* - for examples of the [scripted pipeline](https://jenkins.io/doc/book/pipeline/syntax/#scripted-pipeline).
+* *declarative-examples* - for examples of the [declarative pipeline](https://jenkins.io/doc/book/pipeline/syntax/#declarative-pipeline).
 * *global-library-examples* - for examples of how to write and use the global library on a Jenkins master.
 * *jenkinsfile-examples* - for examples of using `Jenkinsfile`s checked into repositories.
 * *docs* - for documentation, guides and other non-code content.
